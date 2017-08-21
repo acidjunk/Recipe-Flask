@@ -17,6 +17,12 @@ recipes = FlatPages(app)
 def index():
     return render_template('index.html', recipes=recipes)
 
+@app.route('/tag/<string:tag>/')
+def tag(tag):
+    tagged = [r for r in recipes if tag in r.meta.get('tags', [])]
+    return render_template('tag.html', recipes=tagged, tag=tag)
+
+
 @app.route('/<path:path>/')
 def recipe(path):
     data = recipes.get_or_404(path)

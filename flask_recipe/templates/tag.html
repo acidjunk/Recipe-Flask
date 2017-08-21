@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <h2>Recepten</h2>
+    <h2>Recepten met tag: <em>{{ tag }}</em></h2>
     {% with recipes=recipes %}
         {% include "_list.html" %}
     {% endwith %}

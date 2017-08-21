@@ -1,0 +1,15 @@
+<ul>
+{% for recipe in recipes %}
+    <li>
+        <a href="{{ url_for("recipe", path=recipe.path) }}">{{ recipe.date }}: {{ recipe.title }}</a>
+    {% if recipe.meta.tags|length %}
+        | Tagged:
+        {% for recipe_tag in recipe.meta.tags %}
+            <a href="{{ url_for("tag", tag=recipe_tag) }}">{{ recipe_tag }}</a>
+        {% endfor %}
+    {% endif %}
+    </li>
+{% else %}
+    <li>No recipes.</li>
+{% endfor %}
+</ul>
