@@ -27,3 +27,5 @@ Voor 4 wafels heb je nodig:
 – 2 eetlepels suiker
 Verder gebruik je een mengkom, een garde of vork, uiteraard een wafelijzer en olie om het ijzer mee in te vetten.
 Meng de bloem met de baking soda, suiker en zout in een kom. Voeg de eieren en karnemelk toe, en mix met een garde tot een stevig beslag.
+
+https://dagelijksekost.een.be/gerechten/brusselse-wafels
