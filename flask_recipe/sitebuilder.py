@@ -16,10 +16,18 @@ app = Flask(__name__)
 app.config.from_object(__name__)
 recipes = FlatPages(app)
 freezer = Freezer(app)
+available_tags = []
+
+for recipe in recipes:
+    tags = recipe.meta.get('tags', [])
+    if tags:
+        available_tags = available_tags + tags
+available_tags = list(set(available_tags))
 
 @app.route('/')
 def index():
-    return render_template('index.html', recipes=recipes)
+    print available_tags
+    return render_template('index.html', recipes=recipes, available_tags=available_tags)
 
 @app.route('/tag/<string:tag>/')
 def tag(tag):
