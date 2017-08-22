@@ -29,3 +29,18 @@ Verder gebruik je een mengkom, een garde of vork, uiteraard een wafelijzer en ol
 Meng de bloem met de baking soda, suiker en zout in een kom. Voeg de eieren en karnemelk toe, en mix met een garde tot een stevig beslag.
 
 https://dagelijksekost.een.be/gerechten/brusselse-wafels
+
+LUCHTIG
+125 ml melk
+100 gram bloem
+85 gram boter
+6 eetlepels suiker
+wit van 6 eieren
+geel van 3 eieren
+
+Smelt de boter in een pan.
+Neem een kom en doe er de boter in. Maak een kuiltje in het midden en vul met de eierdooiers, de melk en de hete boter. Klop tot een glad beslag zonder klonters met een garde.
+Neem een andere kom en doe hierin de eiwitten. Doe er de helft van de suiker bij en klop op met een electrische mixer. Halverwege voeg je de rest van de suiker toe. Klop tot het eiwit volledig stijf is.
+Warm het wafelijzer.
+Voeg het eiwit bij het beslag in de andere kom en roer onder elkaar.
+Begin onmiddellijk de wafels te bakken, een 5 tal minuten per baksel.
