@@ -1,0 +1,1 @@
+Roer de boter tot room met de suiker en vanillesuiker. Voeg de eierdooiers samen met de olie en de melk toe. Roer goed. Zeef de bloem over het mengsel en roer het erdoor. Klop de eiwitten stijf en hef ze voorzichtig onder het deeg. Je kunt de wafels onmiddellijk bakken.
