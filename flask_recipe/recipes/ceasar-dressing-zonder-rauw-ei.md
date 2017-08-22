@@ -15,5 +15,5 @@ Er zijn vele variaties op deze dressing, sommige (de echte) met Worcestershire 
 - handje parmezaanse kaas
 
 ## Bereiding
-Het citroensap, de knoflook en mosterd in de blender. Voeg mayonaise toe en meng. Voeg langzaam de olijfolie toe terwijl de blender in beweging is.
+Het citroensap, de knoflook en mosterd doe je in de blender. Voeg mayonaise toe en meng. Voeg langzaam de olijfolie toe terwijl de blender in beweging is.
 Breng op smaak met parmezaanse kaas of zout en peper.

@@ -94,7 +94,7 @@
             <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Recepten</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
               {% for recipe in all_recipes %}
-                <a class="dropdown-item{% if url_for("recipe", path=recipe.path) in request.path %} active{% endif %}" href="{{ url_for("recipe", path=recipe.path) }}">{{ recipe.title }}</a>
+                <a class="dropdown-item{% if recipe.path in request.path %} active{% endif %}" href="{{ url_for("recipe", path=recipe.path) }}">{{ recipe.title }}</a>
               {% endfor %}
             </div>
           </li>
@@ -102,7 +102,7 @@
             <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Tags</a>
             <div class="dropdown-menu" aria-labelledby="dropdown02">
               {% for tag in all_tags %}
-                <a class="dropdown-item {% if url_for("tag", tag=tag) in request.path %} active{% endif %}" href="{{ url_for("tag", tag=tag) }}">{{ tag.title() }}</a>
+                <a class="dropdown-item {% if tag in request.path %} active{% endif %}" href="{{ url_for("tag", tag=tag) }}">{{ tag.title() }}</a>
               {% endfor %}
             </div>
           </li>
@@ -115,7 +115,6 @@
     </nav>
 
     <div class="container-fluid">
-
       <div class="row row-offcanvas row-offcanvas-right">
 
         <div class="col-12 col-md-9">
@@ -129,7 +128,7 @@
         <div class="col-6 col-md-3 sidebar-offcanvas" id="sidebar">
           <div class="list-group">
             {% for recipe in all_recipes %}
-            <a class="list-group-item{% if url_for("recipe", path=recipe.path) in request.path %} active{% endif %}"
+                <a class="list-group-item{% if recipe.path in request.path %} active{% endif %}"
             href="{{ url_for("recipe", path=recipe.path) }}">{{ recipe.title }}</a>
             {% endfor %}
           </div>
