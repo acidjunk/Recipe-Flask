@@ -17,3 +17,13 @@ Basisrecept voor wafels / 10-12 stuks
 250 ml melk
 De boter, suiker, vanille suiker en eieren mix je eerst tot een gladde substantie. Hierna voeg je de bloem, bakpoeder en melk er aan toe. Zelf gebruik ik gewoon een garde waarmee dat heel snel en gemakkelijk gaat (soms ben ik gewoon te lui om de mixer erbij te pakken) en als dat klaar is, vind ik het het makkelijkste om het mengsel daarna in een kan te schenken met schenktuitje.
 
+Basis recept
+Voor 4 wafels heb je nodig:
+– 150 gram bloem
+– 2 eieren
+– 100 ml karnemelk
+– 1 theelepel baking soda (of bakpoeder)
+– Flinke snuf zout
+– 2 eetlepels suiker
+Verder gebruik je een mengkom, een garde of vork, uiteraard een wafelijzer en olie om het ijzer mee in te vetten.
+Meng de bloem met de baking soda, suiker en zout in een kom. Voeg de eieren en karnemelk toe, en mix met een garde tot een stevig beslag.
