@@ -1,5 +1,5 @@
 title: Wafels
-date: 2015-12-24 
+date: 2017-08-22 
 tags: [zoet, bakken]
 
 ## Basis zelf rijzend
