@@ -12,6 +12,7 @@ Dit gerecht kun je in ca 10 minuten klaar hebben ideaal dus :)
 - half pak goeie pasta (met ei erin)
 
 optioneel:
+
 - 1 knoflook teen
 
 ## Bereiding
