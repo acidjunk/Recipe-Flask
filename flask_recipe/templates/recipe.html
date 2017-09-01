@@ -2,5 +2,15 @@
 
 {% block content %}
     <h2>{{ recipe.title }}</h2>
+
+    <i>{{ recipe.date }}</i>
+    {% if recipe.meta.tags|length %}
+        | Tagged:
+        {% for recipe_tag in recipe.meta.tags %}
+            <a href="{{ url_for("tag", tag=recipe_tag) }}">{{ recipe_tag }}</a>
+        {% endfor %}
+    {% endif %}
+    <hr>
+
     {{ recipe.html|safe }}
 {% endblock content %}

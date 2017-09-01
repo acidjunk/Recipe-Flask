@@ -1,6 +1,6 @@
-title: Thailandse mihoen salade
+title: Thaise mihoen salade
 date: 2015-07-05
-tags: [paleo, grootmoeder, salade]
+tags: [aziatisch, grootmoeder, salade]
 
 ## Ingrediënten
 - 1 rode ui
