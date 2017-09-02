@@ -1,3 +1,7 @@
+title: Aardappelen met zwarte truffel roomsaus
+date: 2015-06-29
+tags: [saus, paleo]
+
 Kip Hawai
 
 ## Ingrediënten voor 4 personen:
@@ -16,7 +20,7 @@ Peper en zout
 1 klein blikje tomatenpuree (70 gr)
 1 el sojasaus
 2 el witte azijn
-1,5 el gembersiroop
+1,5 el gembersiroop of 1 el honing of 1 el agavesiroop
 Scheutje water
 Peper en zout
 Olijfolie
