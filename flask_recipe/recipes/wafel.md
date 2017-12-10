@@ -2,6 +2,23 @@ title: Wafels
 date: 2017-08-22 
 tags: [zoet, bakken]
 
+## Met verse gist
+- 7gr verse gist of 1 (7 gr) zakje gedroogde actieve bakkersgist
+- 60 ml warme melk (45 graden C)
+- 3 eierdooiers
+- 650 ml warme melk (45 graden C)
+- 175 gr boter, gesmolten en afgekoeld tot lauw
+- 100 gr witte suiker
+- 1 1/2 theelepel zout
+- 2 theelepels vanille-extract
+- 500 gr witte bloem
+- eiwit van 3 eieren
+
+### Bereiding
+1. In een kleine kom, los je de gist op in 60 ml warme melk. Laat staan totdat het romig is, ongeveer 10 minuten.
+2. In een grote kom, meng je de eidooiers, 60 ml van de warme melk en de gesmolten boter. Roer het gistmengsel, suiker, zout en vanille erbij. Roer vervolgens de resterende warme melk afwisselend met de bloem erbij, eindigend met bloem. Klop de eiwitten tot ze zachte pieken vormen; meng door het wafelbeslag. Dek de kom goed af met plasticfolie. Laat het rijzen op een warme plaats tot het verdubbeld is in volume, gedurende ongeveer 1 uur.
+3. Verwarm het wafelijzer. Bestrijk met olie en verdeel 125 ml beslag (of zoals aanbevolen door de fabrikant) met een lepel in het midden van het wafelijzer. Sluit het deksel en bak totdat het ophoudt te stomen en de wafel goudbruin is. Serveer onmiddellijk of houd warm in een 100 graden oven.
+
 ## Basis zelf rijzend
 - 250g boter
 - 300 g suiker 
