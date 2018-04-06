@@ -1,6 +1,6 @@
 title: Spaghetti Alla Carbonara
 date: 2014-08-19
-tags: [italiaans]
+tags: [italiaans, grootmoeder]
 
 Dit gerecht kun je in ca 10 minuten klaar hebben ideaal dus :)
 

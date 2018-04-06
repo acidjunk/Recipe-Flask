@@ -1,6 +1,6 @@
 title: Spaghetti Aglio, Olio E Peperoncino
 date: 2014-08-19
-tags: [paleo, grootmoeder]
+tags: [italiaans, grootmoeder]
 
 Mijn persoonlijke favoriet vooral omdat het ultra snel klaar is.
 
