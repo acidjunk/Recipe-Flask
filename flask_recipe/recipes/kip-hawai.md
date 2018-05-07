@@ -2,7 +2,7 @@ title: Kip Hawai basisrecept
 date: 2017-09-02
 tags: [saus, paleo]
 
-Rijst met kip in een lekker sausje. Dit zijn van die receptjes die altijd goed zijn toch?
+Rijst met kip in een lekker sausje. Dit zijn van die receptjes die altijd goed zijn, toch?
 
 ## Ingrediënten voor 4 personen:
 
