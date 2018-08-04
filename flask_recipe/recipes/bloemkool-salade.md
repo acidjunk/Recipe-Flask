@@ -8,11 +8,12 @@ tags: [grootmoeder, paleo, salade]
 - 2 el goede witte wijnazijn
 - 2 el olijfolie
 - 1 mespuntje mosterd
-- 1 el mayonaise
+- 2 tl honing
+- 1 grote el mayonaise
 - peper en zout
 
 ## Bereiden
-Breng water aan de kook en snijd ondertussen de bloemkool in kleine zo gelijk matig mogelijk verdeelde roosjes. Spoel ze goed schoon en breng de roosjes over naar de pan met het kokende water. Voeg wat zout of een blokje groentebouillon toe. Kook de rijst ca. 7 minuten, hij mag best nog een beetje hard zijn want hij gaart nog verder door het zuur in de dressing. Begin nu aan de dressing. 
+Breng water aan de kook en snijd ondertussen de bloemkool in kleine zo gelijk matig mogelijk verdeelde roosjes. Spoel ze goed schoon en breng de roosjes over naar de pan met het kokende water. Voeg wat zout of een blokje groentebouillon toe. Kook de rijst 5-6 minuten, hij mag best nog een beetje hard zijn want hij gaart nog verder door het zuur in de dressing. Begin nu aan de dressing. 
 
 Meng de olie, azijn, mayonaise en mosterd door elkaar met een snufje zout en peper. Snipper de ui zo fijn en gelijkmatig mogelijk, wanneer de ui wat groter is heb je maar ongeveer de helft nodig. Meng een gedeelte van de gesnipperde ui in de dressing en houd de rest apart. 
 
