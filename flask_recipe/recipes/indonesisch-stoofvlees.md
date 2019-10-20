@@ -1,6 +1,6 @@
-title: Indonesich stoofvlees
+title: Indonesisch stoofvlees
 date: 2019-09-20
-tags: [indonesich, slow-cooking]
+tags: [indonesisch, slow-cooking]
 
 Dit is een makkelijk te maken gerecht. Je kunt het van tevoren maken, zodat je het vlees alleen nog maar hoeft op te warmen als je de frieten maakt. Neem dan niet te lang de tijd voor het opwarmen, want dan wordt het vlees te droog. Beter is het nog het laatste halve uur het vuur uit te zetten en het vlees op de dag van serveren dan nog eens een half uurtje laten pruttelen.  Voeg dan wel meteen wat water toe en vergeet niet te roeren (anders koekt het aan). 
 
