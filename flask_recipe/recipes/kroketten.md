@@ -59,33 +59,32 @@ doen door de korstjes van het brood af te snijden en een uur lang te drogen in e
 graden. Laat het volledig afkoelen en ga er met een deegroller overheen zodat je kruimels krijgt. Zeef de 
 kruimels, dat wat door de zeef valt is fijn paneermeel, dat wat blijft liggen grof.
 
-# Pulled pork korket
+# Pulled pork kroket
 
 Bouillon:
-1 ui, gesnipperd
-10 gram roomboter
-2 theelepels barbecuerub (deze is hier erg lekker!)
-550 ml water
-1 runderbouillonblokje
+- 1 ui, gesnipperd
+- 10 gram roomboter
+- 2 theelepels barbecuerub (deze is hier erg lekker!)
+- 550 ml water
+- 1 runderbouillonblokje
 
 Ragout:
-80 gram roomboter
-100 gram bloem
-500 gram bouillon* (uit de ingrediënten hierboven)
-6 gram gelatine geweekt in koud water (3,5 blaadje gelatine)
-2 eidooiers
-50 gram slagroom*
-400 gram pulled pork, fijngesneden
-witte peper
-zout
-chipotle tabasco
-paneermeel, fijn
-paneermeel, grof (Panko, Japans paneermeel te koop bij de toko, Makro etc. is ideaal)
-5 eiwitten
-10 gram bloem
+- 80 gram roomboter
+- 100 gram bloem
+- 500 gram bouillon* (uit de ingrediënten hierboven)
+- 6 gram gelatine geweekt in koud water (3,5 blaadje gelatine)
+- 2 eidooiers
+- 50 gram slagroom*
+- 400 gram pulled pork, fijngesneden
+- witte peper
+- zout
+- chipotle tabasco
+- paneermeel, fijn
+- paneermeel, grof (Panko, Japans paneermeel te koop bij de toko, Makro etc. is ideaal)
+- 5 eiwitten
+- 10 gram bloem
 
 Bereiding:
-Bouillon:
 Smelt de boter in een pan en fruit hier de ui in.
 Voeg, als de ui zacht is, het water, de barbecuerub en het bouillonblokje toe en breng het geheel aan de kook.
 Als het kookt mag de bouillon van het vuur. Laat de bouillon volledig afkoelen en giet hem door een zeef.
